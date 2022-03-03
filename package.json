@@ -1,0 +1,12 @@
+{
+    "name": "pm-online-quiz-data",
+    "private": true,
+    "dependencies": {
+        "@types/node": "^17.0.21",
+        "ts-node": "^10.6.0",
+        "typescript": "^4.6.2"
+    },
+    "scripts": {
+        "process": "ts-node process.ts"
+    }
+}
